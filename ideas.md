@@ -4,7 +4,7 @@ https://github.com/fivethirtyeight/data/blob/master/bob-ross/elements-by-episode
 
 How many Episodes of Bob Ross contain a certain theme?
 
-_To answer this question, I could use the str.count function with the certain theme inside the file to find out how many episodes include said theme._
+_To answer this question, I could use the str.count function with a for loop to count the number of times that certain theme is mentioned within the file._
 
 How does the data account for outliers?
 
