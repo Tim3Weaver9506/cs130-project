@@ -1,0 +1,1 @@
+## For my data, I wanted to make a function that returned the amount of Bob Ross episodes containing a certain theme and then make one that returns all the themes in a certain episode. With how many episodes there are (403) it can be challenging to want to find a certain episode with a certain theme.This was a bit challenging, though the tools by 
