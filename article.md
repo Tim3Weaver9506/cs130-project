@@ -14,5 +14,5 @@ The process I have gone through to make my code was a bit challenging, I feel li
 
 !(<Frequency of Colors in Bob Ross Paintings.png>)
 
-<This data set was more of a addition to my original plan, This showcases the frequency of colors used in the episodes of Bob Ross: The Joy Of Painting. He notably uses Titanium_White the most, this is because he was very fond of winter landscapes. Strangly enough, he does not use Indian_Red at all, despite it being included. I did a bit of research and found out he reflected the color of Indian_red by using a mix of different reds.>
+<This data set was more of a addition to my original plan, This showcases the frequency of colors used in the episodes of Bob Ross: The Joy Of Painting. He notably uses Titanium_White the most, this is because he was very fond of painting winter landscapes. Strangly enough, he does not use Indian_Red at all, despite it being included within the data set. I did a bit of research and found out he used a mix of different reds to simulate it, so I guess the data source added it because its within his color palette.>
 
