@@ -6,13 +6,13 @@ The process I have gone through to make my code was a bit challenging, I feel li
 
 ### Figure 1: Frequency of Elements in Bob Ross Episodes
 
-!(<Frequency of Elements in Bob Ross Episodes.png>)
+![alt text](<Frequency of Elements in Bob Ross Episodes.png>)
 
 <From this data, I found that Trees in general were the most prevelant element in Bob Ross: The Joy of Painting. As you can see, it accounts for around 86% of all the episodes. Many of Bob Ross paintings were obviously landscape paintings so elements such as 'BUILDINGS' or 'BRIDGES' are not featured as much in his paintings>
 
 ### Figure 2: Frequency of Colors in Bob Ross Episodes
 
-!(<Frequency of Colors in Bob Ross Paintings.png>)
+![alt text](<Frequency of Colors in Bob Ross Paintings.png>)
 
 <This data set was more of a addition to my original plan, This showcases the frequency of colors used in the episodes of Bob Ross: The Joy Of Painting. He notably uses Titanium_White the most, this is because he was very fond of painting winter landscapes. Strangly enough, he does not use Indian_Red at all, despite it being included within the data set. I did a bit of research and found out he used a mix of different reds to simulate it, so I guess the data source added it because its within his color palette.>
 
